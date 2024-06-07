@@ -4,73 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcda623c-c538-4b6a-bfb9-e0f0e7714a38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2_interfaces.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_enum.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1_types.ts" afterDir="false" />
+    <list default="true" id="3504f3bb-7704-491c-928a-3cf013861a08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/typescript-base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_classes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_guards.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_generic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_operators.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TS-base-snippets.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_enum.ts" beforeDir="false" afterPath="$PROJECT_DIR$/3_enum.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "allgloryforrobots"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/allgloryforrobots/typescript-base.git",
-    "accountId": "e8d14175-054e-47f4-9741-364745d54187"
-  }
-}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2hVVmL4TSbuUEjPyDhUSRuv3fis" />
+  <component name="ProjectId" id="2hXbeLYkstvkWvjuQkgacPCi2D5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/Desktop/TS-base-snippets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "E:\\programs\\JetBrains\\WebStorm2024.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fcda623c-c538-4b6a-bfb9-e0f0e7714a38" name="Changes" comment="" />
-      <created>1717679390022</created>
+      <changelist id="3504f3bb-7704-491c-928a-3cf013861a08" name="Changes" comment="" />
+      <created>1717743463728</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717679390022</updated>
-      <workItem from="1717679391056" duration="1731000" />
+      <updated>1717743463728</updated>
+      <workItem from="1717743464825" duration="9840000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/3_enum.js" />
+      </list>
+    </option>
   </component>
 </project>

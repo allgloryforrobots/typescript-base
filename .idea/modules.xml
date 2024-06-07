@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TS-base-snippets.iml" filepath="$PROJECT_DIR$/.idea/TS-base-snippets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/typescript-base.iml" filepath="$PROJECT_DIR$/.idea/typescript-base.iml" />
     </modules>
   </component>
 </project>
